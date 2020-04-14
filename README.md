@@ -2,8 +2,6 @@
 
 ## 개요2
 
-Test,[^1]
-
 <http://chenluois.com>,
 
 [Mou](https://twitter.com/mou)
