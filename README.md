@@ -6,7 +6,7 @@
 
 [Mou](https://twitter.com/mou)
 
-[a relative link](other_file.md)
+[a relative link](other_file.md)[^1]
 
 [^1]: And that's the footnote.
 
