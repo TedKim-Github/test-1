@@ -1,4 +1,4 @@
-# 개요1
+# 개요1[^1]
 
 ## 개요2
 
@@ -6,7 +6,7 @@
 
 [Mou](https://twitter.com/mou)
 
-[a relative link](other_file.md)[^1]
+[a relative link](other_file.md)
 
 [^1]: And that's the footnote.
 
